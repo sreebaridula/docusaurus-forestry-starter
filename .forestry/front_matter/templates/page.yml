@@ -13,3 +13,4 @@ fields:
   label: sidebar_label
 pages:
 - blog/introduction.md
+- docs/introduction.md
